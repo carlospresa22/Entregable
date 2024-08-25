@@ -1,0 +1,1 @@
+Buenas profes, aca les entrego el trabajo hecho en clase, disculpen que no pude agregarle bootstrap pero si se lo agregaba se me corrompia toda la página y no pude solucionarlo por eso demore en entregarlo, asi que opte por dejarlo de una manera más vanila, muchas gracias
